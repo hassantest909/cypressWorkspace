@@ -1,0 +1,29 @@
+{
+	"data": {
+		"security": {
+			"userName": "",
+			"password": "",
+			"securityToken": ""
+		},
+		"account": {
+			"msidn": "",
+			"iban": "",
+			"bban": "",
+			"pan": "",
+			"currency": ""
+		},
+		"channel": "",
+		"terminal": "",
+		"reterivalReferenceNumber": "",
+		"payLoad": {
+	        "otpTypeCode":"ACP",
+            "mobileNumber":"03006088659",
+            "userId":"1"
+		},
+		"additionalInformation": [{
+			"infoKey": "",
+			"infoValue": ""
+		}],
+		"checkSum": ""
+	}
+}
